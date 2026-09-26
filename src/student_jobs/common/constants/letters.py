@@ -1,0 +1,2 @@
+LETTERS = "абвгґдеєжзиіїйклмнопрстуфхцчшщьюяabcdefghijklmnopqrstuvwxyz"
+APOSTROPHES = "'’ʼ`"
